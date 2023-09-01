@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Push-up",
+        "muscle_group": "Chest",
+        "difficulty": "Beginner"
+    },
+    {
+        "name": "Squats",
+        "muscle_group": "Legs",
+        "difficulty": "Intermediate"
+    },
+    {
+        "name": "Plank",
+        "muscle_group": "Core",
+        "difficulty": "Beginner"
+    }
+]

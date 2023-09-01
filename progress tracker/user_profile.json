@@ -1,0 +1,24 @@
+[
+    {
+       "username": "user1",
+       "name": "john Doe",
+       "age": 30,
+       "hight": 180,
+       "weight": 75,
+       "goals": {
+                  "goal_weight":70,
+                  "goal_description": "Lose weight"
+       },
+       "measurements":[
+            {"data": "2023-08-01", "weight": 75, "body_fat":20},    
+            {"data": "2023-08-15", "weight": 73, "body_fat":18},  
+            {"data": "2023-08-30", "weight": 71, "body_fat":15}  
+        ]
+    }
+]
+
+
+
+
+
+

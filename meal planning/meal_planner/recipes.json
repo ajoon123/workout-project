@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Pasta",
+        "ingredients": ["Pasta", "Tomato sauce", "Cheese"]
+    },
+    {
+        "name": "Salad",
+        "ingredients": ["Lettuce", "Tomatoes", "Cucumber", "Dressing"]
+    },
+    {
+        "name": "Chicken Stir-Fry",
+        "ingredients": ["Chicken", "Mixed vegetables", "Soy sauce", "Rice"]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "username": "user1",
+        "name": "John Doe",
+        "age": 30,
+        "height": 180,
+        "weight": 75,
+        "followers": ["user2"],
+        "following": [],
+        "posts": []
+    },
+    {
+        "username": "user2",
+        "name": "Jane Smith",
+        "age": 28,
+        "height": 165,
+        "weight": 60,
+        "followers": [],
+        "following": ["user1"],
+        "posts": []
+    }
+]
